@@ -133,7 +133,8 @@
             "attributes": []
         },
         "messages": {
-            "welcome": "Welcome to Your Vue.js App"
+            "welcome": "Welcome to Your Vue.js App",
+            "hello": "Hello world"
         }
     }
 }
