@@ -18,7 +18,8 @@
         },
         "pagination": {
             "previous": "&laquo; Previous",
-            "next": "Next &raquo;"
+            "next": "Next &raquo;",
+            "back": "previous"
         },
         "validation": {
             "accepted": "The {attribute} must be accepted.",
@@ -134,7 +135,8 @@
         },
         "messages": {
             "welcome": "Welcome to Your Vue.js App",
-            "hello": "Hello world"
+            "hello": "Hello world",
+            "hello_name": "Hello {name}"
         }
     }
 }
