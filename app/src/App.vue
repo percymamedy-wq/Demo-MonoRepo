@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld :msg="$t('messages.hello_name', {name: 'Percy'})"/>
+    <HelloWorld :msg="$t('messages.by_name', {name: 'Percy'})"/>
   </div>
 </template>
 
